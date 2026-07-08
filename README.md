@@ -26,3 +26,10 @@ As I went through the exercises, I realized this lab is especially useful for:
 - Cloud engineers setting up secure and scalable VNets
 
 - Certification candidates preparing for AZ-104 (Azure Administrator Associate)
+
+  ## 📸 Screenshots
+###  Step 1: Click Create a resource  
+_This screenshot captures the Azure portal dashboard, showing quick-access services like Virtual Networks and Resource Groups.
+It highlights recently used resources — mubarak-vnet and cloudlab-b1a-4ad — for streamlined navigation and management._
+
+![Click Create a resource ](Screnshot)
