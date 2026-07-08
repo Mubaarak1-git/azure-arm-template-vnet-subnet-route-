@@ -34,3 +34,9 @@ It highlights recently used resources — mubarak-vnet and cloudlab-b1a-4ad — 
 
 ![Click Create a resource ](Screenshot/Creation_of_Virtual_Network_VIewed_on_RECENT_Resources_screen_SCREENSHOT.png)
 
+### Step 2: Assign IP address
+_Always define a clear address space and subnet plan before deploying a virtual network to avoid IP conflicts later._
+
+![Address Space Tab](Screenshot/Creation_of_Virtual_Network_Address_Space_Tab_IP_address16_SCREENSHOT.png)
+
+
