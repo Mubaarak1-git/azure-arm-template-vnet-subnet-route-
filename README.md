@@ -32,4 +32,5 @@ As I went through the exercises, I realized this lab is especially useful for:
 _This screenshot captures the Azure portal dashboard, showing quick-access services like Virtual Networks and Resource Groups.
 It highlights recently used resources — mubarak-vnet and cloudlab-b1a-4ad — for streamlined navigation and management._
 
-![Click Create a resource ](Screnshot)
+![Click Create a resource ](Screenshot/Creation_of_Virtual_Network_VIewed_on_RECENT_Resources_screen_SCREENSHOT.png)
+
